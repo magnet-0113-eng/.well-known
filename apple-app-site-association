@@ -1,0 +1,42 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9GFA8A95A5.org.reactjs.native.example.authn",
+                "paths": [
+                    "/app/*",
+                    "/apps/*"
+                ]
+            },
+            {
+                "appID": "9GFA8A95A5.com.example.flutterLifecycleExample",
+                "paths": [
+                    "/app/*"
+                ]
+            },
+            {
+                "appID": "9GFA8A95A5.com.example.sampleServiceApp",
+                "paths": [
+                    "/sample-service-app/*"
+                ]
+            },
+            {
+                "appID": "9GFA8A95A5.com.example.identityAndAccessManagementExample",
+                "paths": [
+                    "/example-app/*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "FAKETEAMID.org.reactjs.native.example.authn",
+            "9GFA8A95A5.org.reactjs.native.example.authn",
+            "9GFA8A95A5.magnet.0113.eng.passkyes",
+            "H33B568A59.magnet.0113.eng.passkyes",
+            "9GFA8A95A5.com.example.apple-samplecode.Shiny",
+            "H33B568A59.com.example.apple-samplecode.Shiny"
+        ]
+    }
+}
